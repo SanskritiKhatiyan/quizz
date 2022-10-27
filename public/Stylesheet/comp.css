@@ -21,7 +21,7 @@ footer {
 
 .left__footer {
   padding: 1.5rem;
-  width: 40%;
+  width: auto;
   display: flex;
   align-items: center;
   justify-content: space-evenly;
@@ -32,10 +32,12 @@ footer {
   font-size: 2rem;
   font-weight: 600;
   margin-top: 0.5rem;
+  width: auto;
 }
 
 .footer__icons {
   height: 40px;
+  width: auto;
 }
 
 .footer__icon {
